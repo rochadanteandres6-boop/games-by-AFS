@@ -33,4 +33,8 @@ h1 {
 footer {
     background-color: black;
     padding: 20px;
+    
+.logo {
+    width: 200px;
+    margin-bottom: 10px;
 }
